@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/AaronCeras/Curso-api-rest-javascript-practico/issues"
   },
-  "homepage": "https://github.com/AaronCeras/Curso-api-rest-javascript-practico#readme"
+  "homepage": "https://github.com/AaronCeras/Curso-api-rest-javascript-practico#readme",
+  "type":"module"
 }
